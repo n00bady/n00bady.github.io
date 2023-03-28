@@ -34,7 +34,7 @@ icon512 = "/icon512.png"
 logoRightOfTitle = false # positions the logo to the right of the title; default: false
 
 showTags = false # show the Tags menu item; default: true
-showRss = false # show the link for the RSS feed; default true
+showRss = true # show the link for the RSS feed; default true
 
 imageInArticlePreview = false # show images in article preview; default: false
 fitImageInArticlePreview = false # make article preview images fit the article preview instead of getting cropped
@@ -116,11 +116,11 @@ randomRelated = false # sorts related articles in random order (randomized at bu
 # other elements in this menu are added automatically from the "pages" folder
 # the folder it will look into can be customized with the pages variable
 # in params above
-  [[menu.main]]
+  [[menu.icons]]
   identifier = "gitlab"
-  name = "/gitlab"
+  name = "gitlab"
   url = "https://gitlab.com/n00bady"
-  weight = 3
+  weight = 10
 # These links (menu.icons) will be added as icon links below the main nav
   # [[menu.icons]]
   # identifier = "gitlab"
