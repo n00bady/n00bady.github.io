@@ -1,7 +1,14 @@
 ---
-title: "Welcome to my site!"
-date: 2023-03-28
+title: "Welcome to n00bady's corner!"
+date: 2023-05-08
 ---
-Please enjoy :) 
+## Welcome to my personal site.  
+It's a work in progress where I'm slowly putting together my programming projects 
+and occasionally jotting down some thoughts. I enjoy tinkering with new ideas and 
+building things, but I must admit that I'm a bit of a procrastinator. So while I 
+may forget to update this site for long stretches of time, I assure you that it's 
+not abandoned. It's still in development, and I have plenty of plans for it in the future. 
+For now, feel free to take a look and see what I've managed to cobble together. 
+And if you have any questions or comments, you can try reaching out to me. 
+Just don't expect a prompt response, as I have a tendency to get sidetracked easily.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent velit risus, imperdiet at velit et, faucibus imperdiet metus. Mauris lacinia neque est, ac dignissim justo porta at. Morbi et magna et enim dictum aliquet vitae id ex. Vivamus ac enim eget diam consectetur mollis nec in turpis. Suspendisse velit felis, fringilla id ante tincidunt, pellentesque finibus tellus. Sed dignissim maximus tellus, finibus mattis risus tincidunt at. Sed sed fringilla neque. Fusce ante massa, maximus quis maximus non, sodales non diam. Fusce non nunc nisl. Aenean vitae magna rutrum, congue neque ac, blandit nibh. Curabitur volutpat purus tortor, porttitor eleifend dolor blandit nec. Praesent porttitor nulla et ligula rhoncus placerat.

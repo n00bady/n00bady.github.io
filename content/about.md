@@ -1,6 +1,12 @@
 ---
-title: "/about"
-date: 2023-03-28
+title: "What you expect to fine here?"
+date: 2023-05-08
 ---
 
-Nulla eu dolor sapien. Nunc non nulla hendrerit, iaculis justo eget, tempor augue. Quisque eu risus dignissim, maximus augue ut, tempor sapien. Aenean varius lectus erat, in feugiat diam aliquet dapibus. Nullam tempus a neque at euismod. Ut ornare libero ut feugiat dignissim. Donec sed tempus erat. Mauris sollicitudin risus.
+This is my about page, although I'm not sure why anyone would be interested in reading it. 
+But hey, since you're here, enjoy the programming projects and blog posts that 
+I'll probably forget to update anyway. 
+And if you need to contact me, don't hold your breath for a quick response.
+
+You can contact me [here](mailto:kaz00@vivaldi.net).
+
