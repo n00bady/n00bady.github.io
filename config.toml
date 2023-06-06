@@ -123,8 +123,8 @@ randomRelated = false # sorts related articles in random order (randomized at bu
   weight = 10
   [[menu.icons]]
   identifier = "email"
-  name = "n00bady@test.com"
-  url = "mailto:n00bady@test.com"
+  name = "kaz00@vivaldi.net"
+  url = "mailto:kaz00@vivaldi.net"
 # These links (menu.icons) will be added as icon links below the main nav
   # [[menu.icons]]
   # identifier = "gitlab"
