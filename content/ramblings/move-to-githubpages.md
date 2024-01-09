@@ -1,5 +1,5 @@
 ---
-title: "Welcome to n00bady's personal webpage: Where the posts are few and the updates non-existing."
+title: "New year and the move to githubpages."
 date: 2024-01-09
 draft: false
 ---
