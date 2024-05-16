@@ -119,7 +119,7 @@ randomRelated = false # sorts related articles in random order (randomized at bu
 	[[menu.icons]]
 	identifier = "github"
 	name = "github"
-	ulr = "https://github.com/n00bady"
+	url = "https://github.com/n00bady"
 	weight= 10
 	[[menu.icons]]
 	identifier = "gitlab"
