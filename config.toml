@@ -116,15 +116,20 @@ randomRelated = false # sorts related articles in random order (randomized at bu
 # other elements in this menu are added automatically from the "pages" folder
 # the folder it will look into can be customized with the pages variable
 # in params above
-  [[menu.icons]]
-  identifier = "gitlab"
-  name = "gitlab"
-  url = "https://gitlab.com/n00bady"
-  weight = 10
-  [[menu.icons]]
-  identifier = "email"
-  name = "kaz00@vivaldi.net"
-  url = "mailto:kaz00@vivaldi.net"
+	[[menu.icons]]
+	identifier = "github"
+	name = "github"
+	ulr = "https://github.com/n00bady"
+	weight= 10
+	[[menu.icons]]
+	identifier = "gitlab"
+	name = "gitlab"
+	url = "https://gitlab.com/n00bady"
+	weight = 10
+	[[menu.icons]]
+	identifier = "email"
+	name = "kaz00@vivaldi.net"
+	url = "mailto:kaz00@vivaldi.net"
 # These links (menu.icons) will be added as icon links below the main nav
   # [[menu.icons]]
   # identifier = "gitlab"
